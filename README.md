@@ -1,3 +1,7 @@
+
+# 此模块仅作组件生命周期的分析, 没有实质性作用  by:ogoodo
+
+
 # react-lifecycle
 
 Always get stuck in why `componentXXXX` method not being called? Try this useful mixin to log all lifecycle method calls in your component.
